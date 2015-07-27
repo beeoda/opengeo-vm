@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[en_US]=mate-panel-launcher
+Name[en_US]=Workshop Updater
+Exec=~/.update_vm.sh
+Comment[en_US]=Updates tutorials and software in workshop
+Name=Workshop Updater
+Comment=Updates tutorials and software in workshop
+Icon=mate-panel-launcher
