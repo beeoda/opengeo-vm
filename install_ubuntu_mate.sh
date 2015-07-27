@@ -89,8 +89,8 @@ cd
 sudo apt-get install pyflakes pylint python-jedi pep8
 sudo apt-get install ipython-qtconsole python-pip python-scipy python-numpy pkgconf libfreetype6-dev libpng12-dev
 
-sudo pip install -U pandas scikit-learn statsmodels scikit-image matplotlib
-sudo pip install -U rasterio fiona shapely
+sudo pip install -U numexpr pandas scikit-learn statsmodels scikit-image matplotlib
+sudo pip install -U click docopt rasterio fiona shapely snuggs progressbar2
 
 # Tools for QGIS plugin building
 sudo apt-get install pyqt4-dev-tools python-sphinx
