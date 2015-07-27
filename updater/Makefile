@@ -14,5 +14,5 @@ deploy:
 	cp $(DESKTOP) $(HOME)/.local/share/applications/$(DESKTOP)
 
 clean:
-	rm -v $(HOME)/.$(SCRIPT)
-	rm -v $(HOME)/.local/share/applications/$(DESKTOP)
+	rm -fv $(HOME)/.$(SCRIPT)
+	rm -fv $(HOME)/.local/share/applications/$(DESKTOP)
