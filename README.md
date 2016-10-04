@@ -1,7 +1,7 @@
 # opengeo-vm
 Installation script and settings for Ubuntu Mate 14.04 virtual machine used in workshops
 
-The VM image may be [downloaded from here](http://ftp-earth.bu.edu/public/ceholden/VM).
+The VM image may be [downloaded from here](https://drive.google.com/open?id=0B61iTbR6VybkcEZjWlNnOVJQX0E).
 
 ## Installer
 `install_ubuntu_mate.sh` contains all commands used to install software on this VM.
